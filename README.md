@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/Domi202/template.svg?branch=master)](https://travis-ci.org/Domi202/template)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Domi202/template/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Domi202/template/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Domi202/template/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Domi202/template/?branch=master)
+
 # PHP Composer Package Template
 
 This repository provides a skeleton for a Composer package.
